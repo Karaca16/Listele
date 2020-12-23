@@ -1,0 +1,22 @@
+[{
+		"Adi Soyadi": "Albert Einstain",
+		"İlgiAlanı": "Fizik",
+		"DogumTarihi": "1862",
+		"ResimURL": "https://github.com/Karaca16/Listele/blob/main/r1.jpeg"
+	},
+	{
+		"Adi Soyadi": "Galileo",
+		"İlgiAlanı": "Astro Fizik",
+		"DogumTarihi": "1862",
+		"ResimURL": "https://github.com/Karaca16/Listele/blob/main/r2.jpeg"
+	},
+	{
+		"Adi Soyadi": "Öklit",
+		"İlgiAlanı": "Matematik",
+		"DogumTarihi": "1500",
+		"ResimURL": "https://github.com/Karaca16/Listele/blob/main/r3.jpeg"
+	}
+
+
+
+]
