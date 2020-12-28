@@ -1,12 +1,12 @@
 [{
 		"Adi Soyadi": "Albert Einstain",
-		"İlgiAlanı": "Fizik",
+		"Alani": "Fizik",
 		"DogumTarihi": "1862",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
 	{
 		"Adi Soyadi": "Galileo",
-		"İlgiAlanı": "Astro Fizik",
+		"Alani": "Astro Fizik",
 		"DogumTarihi": "1862",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
 	}
