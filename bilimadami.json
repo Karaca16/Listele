@@ -1,13 +1,31 @@
 [{
 		"Adi Soyadi": "Albert Einstain",
-		"İlgiAlanı": "Fizik",
 		"DogumTarihi": "1862",
+		"Alan": "sadsad",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
 	{
 		"Adi Soyadi": "Galileo",
-		"İlgiAlanı": "Astro Fizik",
 		"DogumTarihi": "1862",
+		"Alan": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
+	},
+ 	{
+		"Adi Soyadi": "Galileo",
+		"DogumTarihi": "1862",
+		"Alan": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
+	},
+ 	{
+		"Adi Soyadi": "Galileo",
+		"DogumTarihi": "1862",
+		"Alan": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
+	},
+ 	{
+		"Adi Soyadi": "Galileo",
+		"DogumTarihi": "1862",
+		"Alan": "sadsad",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
 	}
 
