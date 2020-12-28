@@ -1,13 +1,13 @@
 [{
-		"Adi Soyadi": "Mahmut",
-		"Alani": "Fizik",
+		"Adi Soyadi": "Albert Einstain",
 		"DogumTarihi": "1862",
+		"Alani": "Fizik",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
 	{
 		"Adi Soyadi": "Galileo",
-		"Alani": "Astro Fizik",
 		"DogumTarihi": "1862",
+		"Alani": "Astro Fizik",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
 	}
 
