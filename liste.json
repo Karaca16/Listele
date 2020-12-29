@@ -1,38 +1,32 @@
   [{
-		"Adi Soyadi": "Aaron Swartz",
-		"DogumTarihi": "1862",
-		"IlgiAlani": "Bilgisayar, Yazılım",
-		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r0.png"
-	},
-	{
 		"Adi Soyadi": "Albert Einstain",
 		"DogumTarihi": "1862",
-		"IlgiAlani": "Fizik, Matematik",
+		"ilgiAlani": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
+	},
+	{
+		"Adi Soyadi": "Galileo",
+		"DogumTarihi": "1862",
+		"ilgiAlani": "sadsad",
 		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
  	{
-		"Adi Soyadi": "Galileo",
+		"Adi Soyadi": "mahmuto",
 		"DogumTarihi": "1851",
-		"IlgiAlani": "Astrofizik, Matematik",
-		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r2.jpg"
+		"ilgiAlani": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
  	{
-		"Adi Soyadi": "Alan Turing",
+		"Adi Soyadi": "Ahmet",
 		"DogumTarihi": "1864",
-		"IlgiAlani": "Algoritma",
-		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r3.jpg"
+		"ilgiAlani": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	},
  	{
-		"Adi Soyadi": "Nicola Tesla",
+		"Adi Soyadi": "Kürşat",
 		"DogumTarihi": "1700",
-		"IlgiAlani": "Fizik, Elektromanyetizma",
-		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r4.jpeg"
-	},
-    	{
-		"Adi Soyadi": "Marie Curie",
-		"DogumTarihi": "1700",
-		"IlgiAlani": "Radyoloji",
-		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r5.png"
+		"ilgiAlani": "sadsad",
+		"ResimURL": "https://raw.githubusercontent.com/Karaca16/Listele/main/r1.jpeg"
 	}
 
 
